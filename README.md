@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @archaudhari
-- 👀 I’m interested in SalesHandy
+- 👀 I’m interested in Microsoft
 - 🌱 I’m currently learning Java amd Python
 
 
