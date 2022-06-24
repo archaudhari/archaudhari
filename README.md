@@ -1,4 +1,4 @@
-Greetings  I am Ajay Chaudhari
+Hello, I am Ajay Chaudhari
 
 👀 Interested to explore about daily interaction technology.
 
