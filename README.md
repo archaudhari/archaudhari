@@ -7,7 +7,7 @@ My name is Ajay Chaudhari and I'm a Software Engineer. I'm from Maharashtra, liv
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Version-Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-React.js-informational?style=flat&logo=React.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-Express.js-informational?style=flat&logo=Express.js&logoColor=white&color=2bbc8a)
@@ -15,32 +15,23 @@ My name is Ajay Chaudhari and I'm a Software Engineer. I'm from Maharashtra, liv
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
-
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [What is Python&#39;s &quot;self&quot; Argument, Anyway?](https://martinheinz.dev/blog/81)
-- [Python List Comprehensions Are More Powerful Than You Might Think](https://martinheinz.dev/blog/80)
-- [You Should Be Using Python&#39;s Walrus Operator - Here&#39;s Why](https://martinheinz.dev/blog/79)
-- [Recipes and Tricks for Effective Structural Pattern Matching in Python](https://martinheinz.dev/blog/78)
-<!-- BLOG-POST-LIST:END -->
+Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://archaudhari.dev/) as well as on [Medium](https://medium.com/@archaudhari) and [DEV.to](https://dev.to/archaudhari).
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/archaudhari/archaudhari">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/archaudhari/archaudhari">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
+<a href="https://github.com/archaudhari/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/archaudhari/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
