@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/…g7a4w1xpf1hvpm2vrby4rym6s43yqa&rid=giphy.gif&ct=g">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fisc0wt7rng7a4w1xpf1hvpm2vrby4rym6s43yqa&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 500px; height: 375px; left: 0px; top: 0px; opacity: 0;">
 </p>
 
 ---
