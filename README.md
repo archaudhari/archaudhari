@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+  <img src= "https://images.unsplash.com/photo-1505238680356-66…fHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80">
 </p>
 
 ---
@@ -101,8 +101,6 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=archaudhari&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archaudhari&theme=noctis_minimus&layout=compact" />
 </a>
-
-![Snake animation](https://github.com/archaudhari/archaudhari/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
