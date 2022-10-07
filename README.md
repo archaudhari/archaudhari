@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://images.unsplash.com/photo-1505238680356-66…fHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80">
+  <img src= "https://unsplash.com/photos/B3l0g6HLxr8">
 </p>
 
 ---
