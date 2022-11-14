@@ -101,6 +101,9 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=archaudhari&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archaudhari&theme=noctis_minimus&layout=compact" />
 </a>
+
+### 💝 Since you made it to the end, here's a qoute for you
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&quoteCategory=motivational)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
