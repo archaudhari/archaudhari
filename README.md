@@ -38,11 +38,10 @@
 ```yaml
 name: Ajay Chaudhari
 located_in: Pune, Maharashtra
-current_job: Software Engineer
+current_job: Software Engineer/ QA Analyst
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Bachelor's in Mechanical Engineering",
+    "Self-Taught Developer and Designer"
   ]
 company: SANCY Berhad
 
